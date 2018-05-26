@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="5c4b8f4fdb9513003228f9151d9619fe" sys_domain="global" table="x_enps_ocs_ptr" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>fcdd7cf5dbc69f0002755f135e9619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <text>Trip Information</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>38dd7cf5dbc69f0002755f135e9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <text>Assignment</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fcdd7cf5dbc69f0002755f135e9619d5</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>f8dd7cf5dbc69f0002755f135e9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>b0dd7cf5dbc69f0002755f135e9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>trip_code</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>34dd7cf5dbc69f0002755f135e9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>car_number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>b4dd7cf5dbc69f0002755f135e9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ticket_type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>38dd7cf5dbc69f0002755f135e9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>position</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>b8dd7cf5dbc69f0002755f135e9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>corrective_action_request</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>3cdd7cf5dbc69f0002755f135e9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>bcdd7cf5dbc69f0002755f135e9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>38dd7cf5dbc69f0002755f135e9619d6</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>30dd7cf5dbc69f0002755f135e9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>b0dd7cf5dbc69f0002755f135e9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>34dd7cf5dbc69f0002755f135e9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>b4dd7cf5dbc69f0002755f135e9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>38dd7cf5dbc69f0002755f135e9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:30:04</sys_created_on>
+            <sys_id>b8dd7cf5dbc69f0002755f135e9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_enps_ocs_ptr" sys_domain="global" view="Default view">5c4b8f4fdb9513003228f9151d9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:30:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_enps_ocs_ptr</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-04-11 00:13:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c4b8f4fdb9513003228f9151d9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_enps_ocs_ptr</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+            <sys_update_name>sys_ui_section_5c4b8f4fdb9513003228f9151d9619fe</sys_update_name>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-04-11 00:13:17</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
